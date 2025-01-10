@@ -1,0 +1,2 @@
+# Sistema para Calcular Sueldo Neto
+ El caso de estudio consiste en desarrollar un sistema para calcular el sueldo neto de trabajadores según su categoría (Administrativo, Operario, Obrero), aplicando descuentos e incrementos específicos. Se implementa en Visual C# con el Patrón MVC y conectado a una base de datos SQL Server, permitiendo registrar trabajadores, calcular sueldos y mostrar detalles en una interfaz amigable.
