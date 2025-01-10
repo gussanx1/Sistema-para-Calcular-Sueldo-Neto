@@ -1,0 +1,12 @@
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\bin\Debug\Modelo.dll
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.dll
+C:\Users\Administrador\source\repos\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.pdb
+E:\EmpresaLaboratorio\Modelo\bin\Debug\Modelo.dll
+E:\EmpresaLaboratorio\Modelo\bin\Debug\Modelo.pdb
+E:\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.dll
+E:\EmpresaLaboratorio\Modelo\obj\Debug\Modelo.pdb
